@@ -31,7 +31,7 @@ MCU = atmega328p
 FORMAT = ihex
 
 # Target file name (without extension).
-TARGET = Street_light.c
+TARGET = Street_light
 
 MAIN_HEX_PATH = D:\Street light\$(TARGET).hex
 
