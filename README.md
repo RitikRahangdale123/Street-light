@@ -15,15 +15,15 @@ LED Driving Circuit-An LED circuit or LED driver is an electrical circuit used t
 Central System-Microcontroller
 Sub-system-LED driver circuit
 
-Low Level Requirement-
+## Low Level Requirement-
 1)switch to turn on/off the Street light.
 2)power supply needed for the operation of device i.e. for microcontroller, sensor,LED,Actuator,etc.
 
-High Level Requirement-
+## High Level Requirement-
 1)Street light shall be on at proper time and without the help of any person.
 
 
-Test Case-
+# Test Case-
 when power is supplied to check whether the system is working or not(Y/N)
 when power is suppplied to check whether the led is turning on or not(Y/N)
 to check whether the microcontroller is receving the signal or not(Y/N).
