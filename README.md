@@ -29,6 +29,10 @@ when power is suppplied to check whether the led is turning on or not(Y/N)
 to check whether the microcontroller is receving the signal or not(Y/N).
 to check whether the LED sensor is working or not(Y/N).
 
+# Block Diagram
+
+![Untitled Diagram](https://user-images.githubusercontent.com/98812364/157283099-ca2d5704-6429-4604-aa19-f79d8322e355.jpg)
+
 
 
 
